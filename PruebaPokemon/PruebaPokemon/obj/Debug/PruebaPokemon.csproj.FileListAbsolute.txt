@@ -1,0 +1,11 @@
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\bin\Debug\PruebaPokemon.exe.config
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\bin\Debug\PruebaPokemon.exe
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\bin\Debug\PruebaPokemon.pdb
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.Form1.resources
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.Properties.Resources.resources
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.csproj.GenerateResource.cache
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.csproj.CoreCompileInputs.cache
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.exe
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.pdb
+C:\Users\welli\source\repos\Asp.net core\PruebaPokemon\PruebaPokemon\obj\Debug\PruebaPokemon.Form2.resources
